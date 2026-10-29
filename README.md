@@ -12,4 +12,8 @@ I manage 20+ production Kubernetes clusters (200+ nodes) at [CERN](https://home.
 | Security | HashiCorp Vault, Kyverno, Falco, cert-manager, OIDC |
 | Languages | Python, Go, Bash, Java, C/C++, P4 |
 
+#### Open source
+
+- [keycloak/keycloak#54402](https://github.com/keycloak/keycloak/pull/54402): open masthead dropdowns toward the page in RTL locales
+
 <sub>Most of my day-to-day work lives in CERN's internal GitLab, so it doesn't show up on the contribution graph below.</sub>
