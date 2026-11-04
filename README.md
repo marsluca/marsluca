@@ -14,6 +14,8 @@ I manage 20+ production Kubernetes clusters (200+ nodes) at [CERN](https://home.
 
 #### Open source
 
+- [OAuth2 Proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+  - [#3583](https://github.com/oauth2-proxy/oauth2-proxy/pull/3583): return 403 instead of 500 when the ID token audience is invalid
 - [Keycloak](https://github.com/keycloak/keycloak)
   - [#54436](https://github.com/keycloak/keycloak/pull/54436): use the docker runtime in the operator minikube quick start
   - [#54402](https://github.com/keycloak/keycloak/pull/54402): open masthead dropdowns toward the page in RTL locales
