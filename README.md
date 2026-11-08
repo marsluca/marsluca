@@ -14,6 +14,8 @@ I manage 20+ production Kubernetes clusters (200+ nodes) at [CERN](https://home.
 
 #### Open source
 
+- [ContainerSSH](https://github.com/ContainerSSH/ContainerSSH)
+  - [#736](https://github.com/ContainerSSH/ContainerSSH/pull/736): add a `--version` flag
 - [Lima](https://github.com/lima-vm/lima)
   - [#5696](https://github.com/lima-vm/lima/pull/5696): disable copy-on-write for VM disks on btrfs hosts
 - [OAuth2 Proxy](https://github.com/oauth2-proxy/oauth2-proxy)
